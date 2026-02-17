@@ -1,7 +1,8 @@
 {
     "pushedFiles":  [
                         "Lec01_Intro.cpp",
-                        "Lec04_Basic_IO.cpp"
+                        "Lec04_Basic_IO.cpp",
+                        "Lec06_Factorial_Calculator.cpp"
                     ],
     "lastPushDate":  "2026-02-17",
     "totalFiles":  55,
