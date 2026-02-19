@@ -4,7 +4,8 @@
                         "Lec04_Basic_IO.cpp",
                         "Lec06_Factorial_Calculator.cpp",
                         "Lec06_Sum_Of_Even_Numbers.cpp",
-                        "Lec07_Simple_Table.cpp"
+                        "Lec07_Simple_Table.cpp",
+                        "Lec07_Generic_Table.cpp"
                     ],
     "lastPushDate":  "2026-02-18",
     "totalFiles":  55,
