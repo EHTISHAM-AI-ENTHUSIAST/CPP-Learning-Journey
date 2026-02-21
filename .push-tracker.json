@@ -7,9 +7,10 @@
                         "Lec07_Simple_Table.cpp",
                         "Lec07_Generic_Table.cpp",
                         "Lec07_Number_Guessing_Game.cpp",
-                        "Lec07_Sum_Of_Squares.cpp"
+                        "Lec07_Sum_Of_Squares.cpp",
+                        "Lec08_Grade_System.cpp"
                     ],
-    "lastPushDate":  "2026-02-19",
+    "lastPushDate":  "2026-02-21",
     "totalFiles":  55,
     "filesToPush":  [
                         "Lec01_Intro.cpp",
