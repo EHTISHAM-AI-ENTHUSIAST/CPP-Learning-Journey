@@ -17,9 +17,10 @@
                         "Lec12_Array_Comparison.cpp",
                         "Lec12_Pass_Array_Function.cpp",
                         "Lec14_Pointer_Basics.cpp",
-                        "Lec15_DataType_Sizes.cpp"
+                        "Lec15_DataType_Sizes.cpp",
+                        "Lec15_Pointer_Arithmetic.cpp"
                     ],
-    "lastPushDate":  "2026-02-23",
+    "lastPushDate":  "2026-02-24",
     "totalFiles":  55,
     "filesToPush":  [
                         "Lec01_Intro.cpp",
