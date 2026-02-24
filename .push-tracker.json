@@ -18,7 +18,8 @@
                         "Lec12_Pass_Array_Function.cpp",
                         "Lec14_Pointer_Basics.cpp",
                         "Lec15_DataType_Sizes.cpp",
-                        "Lec15_Pointer_Arithmetic.cpp"
+                        "Lec15_Pointer_Arithmetic.cpp",
+                        "Lec15_Pointer_Comparison.cpp"
                     ],
     "lastPushDate":  "2026-02-24",
     "totalFiles":  55,
