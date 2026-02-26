@@ -26,9 +26,10 @@
                         "Lec17_ASCII_Print.cpp",
                         "Lec17_Char_Handling.cpp",
                         "Lec17_String_Concat.cpp",
-                        "Lec18_File_Read.cpp"
+                        "Lec18_File_Read.cpp",
+                        "Lec19_Structure_Employee.cpp"
                     ],
-    "lastPushDate":  "2026-02-25",
+    "lastPushDate":  "2026-02-26",
     "totalFiles":  55,
     "filesToPush":  [
                         "Lec01_Intro.cpp",
