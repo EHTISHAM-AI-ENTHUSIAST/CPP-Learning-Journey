@@ -27,7 +27,8 @@
                         "Lec17_Char_Handling.cpp",
                         "Lec17_String_Concat.cpp",
                         "Lec18_File_Read.cpp",
-                        "Lec19_Structure_Employee.cpp"
+                        "Lec19_Structure_Employee.cpp",
+                        "Lec20_Bitwise_Shifts.cpp"
                     ],
     "lastPushDate":  "2026-02-26",
     "totalFiles":  55,
