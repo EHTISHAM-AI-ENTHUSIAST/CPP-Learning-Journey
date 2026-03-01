@@ -31,7 +31,8 @@
                         "Lec20_Bitwise_Shifts.cpp",
                         "Lec23_Header_Functions.cpp",
                         "Lec23_Preprocessor_Macros.cpp",
-                        "Lec24_Preprocessor_Macros.cpp"
+                        "Lec24_Preprocessor_Macros.cpp",
+                        "Lec25_Dynamic_Memory.cpp"
                     ],
     "lastPushDate":  "2026-02-28",
     "totalFiles":  55,
