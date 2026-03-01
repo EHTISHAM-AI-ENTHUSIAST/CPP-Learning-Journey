@@ -32,9 +32,10 @@
                         "Lec23_Header_Functions.cpp",
                         "Lec23_Preprocessor_Macros.cpp",
                         "Lec24_Preprocessor_Macros.cpp",
-                        "Lec25_Dynamic_Memory.cpp"
+                        "Lec25_Dynamic_Memory.cpp",
+                        "Lec26_Class_Methods.cpp"
                     ],
-    "lastPushDate":  "2026-02-28",
+    "lastPushDate":  "2026-03-01",
     "totalFiles":  55,
     "filesToPush":  [
                         "Lec01_Intro.cpp",
