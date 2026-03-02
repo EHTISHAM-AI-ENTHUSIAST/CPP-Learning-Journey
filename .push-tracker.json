@@ -33,7 +33,8 @@
                         "Lec23_Preprocessor_Macros.cpp",
                         "Lec24_Preprocessor_Macros.cpp",
                         "Lec25_Dynamic_Memory.cpp",
-                        "Lec26_Class_Methods.cpp"
+                        "Lec26_Class_Methods.cpp",
+                        "Lec27_Constructors.cpp"
                     ],
     "lastPushDate":  "2026-03-01",
     "totalFiles":  55,
