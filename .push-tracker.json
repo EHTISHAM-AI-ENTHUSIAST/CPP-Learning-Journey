@@ -36,7 +36,8 @@
                         "Lec26_Class_Methods.cpp",
                         "Lec27_Constructors.cpp",
                         "Lec28_Class_Date.cpp",
-                        "Lec28_Class_Time.cpp"
+                        "Lec28_Class_Time.cpp",
+                        "Lec29_Constructors_Destructors.cpp"
                     ],
     "lastPushDate":  "2026-03-02",
     "totalFiles":  55,
