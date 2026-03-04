@@ -38,7 +38,8 @@
                         "Lec28_Class_Date.cpp",
                         "Lec28_Class_Time.cpp",
                         "Lec29_Constructors_Destructors.cpp",
-                        "Lec30_Reference_Return.cpp"
+                        "Lec30_Reference_Return.cpp",
+                        "Assignment01_Prime_Digits.cpp"
                     ],
     "lastPushDate":  "2026-03-03",
     "totalFiles":  55,
