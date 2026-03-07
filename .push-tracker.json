@@ -45,9 +45,10 @@
                         "Practice_Sum_Integers.cpp",
                         "Practice_Circle_Area.cpp",
                         "Practice_Age_Comparison.cpp",
-                        "Practice_Arithmetic_Operations.cpp"
+                        "Practice_Arithmetic_Operations.cpp",
+                        "Practice_Discount_Calculator.cpp"
                     ],
-    "lastPushDate":  "2026-03-06",
+    "lastPushDate":  "2026-03-07",
     "totalFiles":  55,
     "filesToPush":  [
                         "Lec01_Intro.cpp",
