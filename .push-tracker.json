@@ -47,9 +47,10 @@
                         "Practice_Age_Comparison.cpp",
                         "Practice_Arithmetic_Operations.cpp",
                         "Practice_Discount_Calculator.cpp",
-                        "Practice_Digit_Separator.cpp"
+                        "Practice_Digit_Separator.cpp",
+                        "Practice_Student_Average.cpp"
                     ],
-    "lastPushDate":  "2026-03-07",
+    "lastPushDate":  "2026-03-08",
     "totalFiles":  55,
     "filesToPush":  [
                         "Lec01_Intro.cpp",
