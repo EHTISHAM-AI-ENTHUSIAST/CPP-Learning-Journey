@@ -27,9 +27,9 @@ CPP-Learning-Journey/
 | **Lectures** | 30 | 🟢 Active |
 | **Assignments** | 2 | ✅ Complete |
 | **Practice** | 8 | 🟢 Active |
-| **Concepts** | 4 | ✅ Complete |
+| **Concepts** | 5 | ✅ Complete |
 
-**Total Programs:** 57+ and counting! 📈
+**Total Programs:** 58+ and counting! 📈
 
 ---
 
