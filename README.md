@@ -3,7 +3,7 @@
 **My personal collection of C++ programs from university coursework and self-study.**
 
 [![Language](https://img.shields.io/badge/Language-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://isocpp.org/)
-[![Progress](https://img.shields.io/badge/Programs-55+-success?style=flat-square)](https://github.com/EHTISHAM-AI-ENTHUSIAST/CPP-Learning-Journey)
+[![Progress](https://img.shields.io/badge/Programs-56+-success?style=flat-square)](https://github.com/EHTISHAM-AI-ENTHUSIAST/CPP-Learning-Journey)
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)](https://github.com/EHTISHAM-AI-ENTHUSIAST/CPP-Learning-Journey)
 
 ---
@@ -24,12 +24,12 @@ CPP-Learning-Journey/
 
 | Category | Files | Status |
 |:---------|:-----:|:------:|
-| **Lectures** | 30 | 🟢 Active |
+| **Lectures** | 31 | 🟢 Active |
 | **Assignments** | 2 | ✅ Complete |
 | **Practice** | 8 | 🟢 Active |
-| **Concepts** | 2 | ✅ Complete |
+| **Concepts** | 3 | ✅ Complete |
 
-**Total Programs:** 55+ and counting! 📈
+**Total Programs:** 56+ and counting! 📈
 
 ---
 
@@ -118,4 +118,4 @@ Free to learn from, but please don't submit as your own coursework! 😊
 
 ---
 
-*Last Updated: February 2026*
+*Last Updated: March 2026*
